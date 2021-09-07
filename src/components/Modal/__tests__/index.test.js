@@ -4,9 +4,6 @@ import '@testing-library/jest-dom/extend-expect'
 import Modal from '..'
 
 
-
-
-
 const mockToggleModal = (image, i) => {
   setCurrentPhoto({...image, index: i});
   setIsModalOpen(!isModalOpen);
