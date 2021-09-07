@@ -1,6 +1,7 @@
 {
   "name": "photo-port",
   "version": "0.1.0",
+  "homepage": "http://eastonshaum.github.io/photo-port",
   "private": true,
   "dependencies": {
     "@testing-library/user-event": "^12.8.3",
@@ -35,6 +36,7 @@
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^5.14.1",
-    "@testing-library/react": "^11.2.7"
+    "@testing-library/react": "^11.2.7",
+    "gh-pages": "^3.2.3"
   }
 }
